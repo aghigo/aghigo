@@ -2,6 +2,7 @@
 <h3 align="center">A Software Developer</h3>
 
 - 💬 Ask me about **Java, Spring, Vue.js, JavaScript, Java EE, JUnit**
+- Currently learning Kotlin.
 
 - 📫 How to reach me **andreghigo@gmail.com**
 
